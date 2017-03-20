@@ -1,0 +1,20 @@
+body{
+	margin:20px;
+}
+
+.chatbox{
+  position: relative;
+  width: 150px;
+  height: 120px;
+  background-color: #70DBDB;
+  left: 40px;
+  border-radius: 20px;
+}
+.chatpointer{
+  position: relative;
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+  border-right: 36px solid #70DBDB;
+  top: 18px;
+  right: 150px; 
+}
